@@ -1,5 +1,6 @@
 # Data Structures and Algorithms
 ## Measure Running Time
+Work in progress
 
 ## Binary Search (Half-Interval Search)
 #### An algorithm used to find a specific element located in a sorted array. It halves the number of elements to check with each iteration. 
